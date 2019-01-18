@@ -1,4 +1,4 @@
-title: [Kanan Saikai's webpage]
+
 # Welcome to Kanan Saikai's webpage!
 
 ![](rln734_stiching.png)
