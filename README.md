@@ -1,7 +1,7 @@
 title: [Kanan Saikai's webpage]
 # Welcome to Kanan Saikai's webpage!
 
-![](rln734_stighing_female1t1xy1%20copy.png)
+![](rln734_stiching.png)
 
 ## Who is Kanan saikai 
 
@@ -52,7 +52,7 @@ My research interests focus on plant-parasitic nematodes, its biology and modeli
 
 ### Teaching
 * T.A. for PL Path/ Botany 123 Plants, Parasites, and People - Fall 2016
-([TA evaluation](./PP%20123%20TA%20Kutsuwa%20results.pdf))
+([TA evaluation](./PP123_evaluation_ksaikai.pdf))
 
 
 ### Committee
