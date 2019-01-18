@@ -51,7 +51,7 @@ My research is focused on plant-parasitic nematodes, its biology and modeling da
 
 ### Teaching
 * T.A. for PL Path/ Botany 123 Plants, Parasites, and People - Fall 2016
-(Please check "PP 123 TA Kutsuwa results.pdf" in my repository for the teaching evaluation.)
+([TA evaluation](./PP%20123%20TA%20Kutsuwa%20results.pdf))
 
 
 ### Committee
