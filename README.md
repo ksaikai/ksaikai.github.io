@@ -1,6 +1,6 @@
 # Welcome to Kanan Saikai's webpage!
 
- ![](/Users/kanan/Desktop/OneDrive - UW-Madison/github materials/rln734_stighing_female1t1xy1 copy.png) 
+ 
 
 ## Who is Kanan saikai 
 
