@@ -41,9 +41,10 @@ My research interests focus on plant-parasitic nematodes, its biology and modeli
  
  
 ### Skills
-* Trained for nematode disease diagnostics
-* Trained for fungal disease diagnostics
-* Experience in SAS and R programming languages
+* Nematode disease diagnostics
+* Fungal disease diagnostics
+* SAS and R programming languages
+* PCR/ Cloning/ Sequence analysis
 * Trained for Scanning Electron Microscopes
  
  
