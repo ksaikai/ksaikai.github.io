@@ -1,8 +1,8 @@
 ---
 layout: single
 author_profile: true 
-# header:
-#   Image: 
+header:
+  Image: "github_ks_frontimage.jpg" 
 --- 
  
 # Welcome to Kanan Saikai's webpage!
