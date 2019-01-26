@@ -1,5 +1,6 @@
 # locale                   : "en-US"
-theme                    : jekyll-theme-architect
+
+remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
 title                    : [Kanan Saikai's webpage]
 # title_separator          : "-"
 # name                     : "Kanan Saikai"
