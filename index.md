@@ -2,7 +2,7 @@
 layout: single
 author_profile: true 
 header:
-  Image: "github_ks_frontimage.jpg" 
+  Image: ![](github_ks_frontimage.jpg) 
 --- 
  
 # Welcome to Kanan Saikai's webpage!
