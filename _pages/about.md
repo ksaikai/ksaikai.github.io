@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true 
+permalink: /about/
 --- 
 
 ### Education and Research Interests
