@@ -53,3 +53,8 @@ permalink: /cv/
 ### Committee
 * Extension committee of Society of Nematologists – 2018-2019
 * Student committee of Society of Nematologists – 2018-2019
+
+
+CV is also available in PDF ([CV](../CV_KananSaikai.pdf))
+
+
