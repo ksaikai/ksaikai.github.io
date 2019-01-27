@@ -1,6 +1,6 @@
 ---
-title: about
-permalink: /about/
+title: CV
+permalink: /cv/
 --- 
 
 ### Education and Research Interests
