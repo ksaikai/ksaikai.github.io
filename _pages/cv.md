@@ -43,7 +43,7 @@ permalink: /cv/
 
 ### Teaching
 * T.A. for PL Path/ Botany 123 Plants, Parasites, and People - Fall 2016
-([TA evaluation](./PP123_evaluation_ksaikai.pdf))
+([TA evaluation](../PP123_evaluation_ksaikai.pdf))
 
 
 ### Committee
