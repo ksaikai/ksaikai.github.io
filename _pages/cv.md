@@ -7,9 +7,13 @@ permalink: /cv/
 **The University of Wisconsin - Madison - Fall, 2014 to present**
 * Plant Pathology PhD
 * PhD thesis: Characterizing the significance of Pratylenchus penetrans on soybean (Glycine max (L.) Merr.).
+
+
 **The Univestiy of Florida - Fall, 2012 to Spring, 2014**
 * Nematology MS
 * MS thesis: Investigation of Belonolaimus longicaudatus infecting peanut in Florida.
+
+
 **Hosei University - Spring, 2008 to Spring, 2012**
 * Plant Pathology BS
 
