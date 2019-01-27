@@ -18,7 +18,7 @@ Photocredit. Dr. Ann E. MacGuidwin
 ## Aggregation of *Pratylenchus* spp. behaviour
 ![](../nema_aggregation1.jpg)
 ![](../nema_aggregation2.jpg)
-I am always fascinated by their aggregative behaviour. They are so simple and yet very social animals. 
+I am always fascinated by their aggregative behaviour. They are so simple and yet very sophisticated animals. 
 They look like nematode spaghetti. 
 
 
