@@ -13,3 +13,7 @@ I am currently a PhD candidate in the Department of Plant Pathology at the Unive
 I received my M.S. in Plant Nematology at the University of Florida, advised by Dr. Donald W. Dickson.
 My research interests focus on plant-parasitic nematodes, its biology and modeling damage functions on economic crops. I am also interested in education and extension for growers.
  
+ 
+My husband, Yuji Saikai, is also a PhD student in the department of Agriculture and Applied Economics at the UW-Madison. His research interests are in computational modeling and its applications to agricultural and food systems. https://yujisaikai.com/
+ 
+ 
