@@ -19,6 +19,8 @@ permalink: /cv/
 
 
 ### Publications
+* Saikai, K., Z. A. Handoo, and A. E. MacGuidwin. 2019. First report of the root-lesion nematode, Pratylenchus fallax, on soybean in Wisconsin. Plant Disease (submitted).
+* Saikai, K., and A. E. MacGuidwin. 2019. First report of the root-lesion nematode, Pratylenchus alleni, on soybean in Wisconsin. Plant Disease (submitted).
 * Saikai, K., and A. E. MacGuidwin. 2018. Modeling the damage function of Pratylenchus penetrans on soybean using a nested error component model. Journal of Nematology 50:654 (Abstr.).
 * Kutsuwa, K., and A. E. MacGuidwin. 2017. Gender difference in lesion formations by Pratylenchus penetrans. Journal of Nematology 49: 508-509 (Abstr.).
 * Kutsuwa, K., D. W. Dickson, J. A. Brito., A. Jeyaprakash, and A. Drew. 2014.  Belonolaimus longicaudatus, an emerging pathogen of peanut in Florida. Journal of Nematology 47:87-96.  
