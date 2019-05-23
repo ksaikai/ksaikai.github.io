@@ -31,4 +31,6 @@ Published Online:12 Apr 2019https://doi.org/10.1094/PDIS-02-19-0288-PDN
 This publication reported *Pratylenchus fallax* for the first time on soybean in Wisconsin. 
 Also, it offered the first molecular information of the species in the USA. 
 
-![](../
+![](../rln734_stiching.png)
+
+
