@@ -33,4 +33,9 @@ Also, it offered the first molecular information of the species in the USA.
 
 ![](../rln734_stiching.png)
 
+## First report of *Pratylenchus alleni* on soybean in Wisconsin
+Published Online:22 Apr 2019https://doi.org/10.1094/PDIS-03-19-0501-PDN
+
+![](../palleni_stiching.pdf)
+
 
