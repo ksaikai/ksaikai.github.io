@@ -18,7 +18,7 @@ Sting nematode, *Belonolaimus longicaudatus* is the most damaging nematode pest 
 
 ![](../Sting_pod.jpg)
 ![](../Sting_peg.jpg)   
-  The nematode also feed on pods and pegs. You can see their feeding sites as punctuated dark circles on pods and pegs.
+  The nematode also feeds on pods and pegs. You can see their feeding sites as punctuated dark circles on pods and pegs.
 
 
 # Ph.D. projects
