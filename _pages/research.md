@@ -26,7 +26,8 @@ Once the manuscripts are accepted, I will post descriptions of my Ph.D. projects
 
 
 ## First report of *Pratylenchus fallax* on soybean in Wisconsin
-Published Online:12 Apr 2019https://doi.org/10.1094/PDIS-02-19-0288-PDN
+Published Online:12 Apr 2019
+https://doi.org/10.1094/PDIS-02-19-0288-PDN
 
 This publication reported *Pratylenchus fallax* for the first time on soybean in Wisconsin. 
 Also, it offered the first molecular information of the species in the USA. 
@@ -34,7 +35,8 @@ Also, it offered the first molecular information of the species in the USA.
 ![](../rln734_stiching.png)
 
 ## First report of *Pratylenchus alleni* on soybean in Wisconsin
-Published Online:22 Apr 2019https://doi.org/10.1094/PDIS-03-19-0501-PDN
+Published Online:22 Apr 2019
+https://doi.org/10.1094/PDIS-03-19-0501-PDN
 
 ![](../palleni_stiching.jpg)
 
