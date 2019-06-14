@@ -2,10 +2,6 @@
 title: "Nematode photos"
 permalink: /nematode/
 ---
-Nematodes are sophisticated animals with huge diversity in morphological characters. 
-I will post nematode pictures (not necessarily taken by me) to share their beauty with you. 
-Also, as a plant pathology PhD student, it is my honorable duty (I think) to show you how damaging they can be on a wide range of crops. So I will post some nematode damage images here probably...
-Hope you will love them!
 
 ## Stitching imaging 
 ![](../rln734_stiching.png)
