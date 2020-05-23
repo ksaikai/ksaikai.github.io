@@ -19,14 +19,11 @@ permalink: /cv/
 
 ### Publications
 * Saikai, K., and A. E. MacGuidwin. 2020. Difference in lesion formation by male and female Pratylenchus penetrans. Journal of Nematology (accepted with minor revisions).
+* Vieira, P., Peetz, A., Mimee, B., Saikai, K., Mollov, D., MacGuidwin, A., Zasada, I., and Nemchinov, L. G. 2020. Prevalence of the root lesion nematode virus (RLNV1) in populations of Pratylenchus penetrans from North America. Journal of Nematology DOI:10.21307/jofnem-2020-045 (accepted).
 * Saikai, K., Z. A. Handoo, and A. E. MacGuidwin. 2019. First report of the root-lesion nematode, Pratylenchus fallax, on soybean in Wisconsin. Plant Disease doi.org/10.1094/PDIS-02-19-0288-PDN.
 * Saikai, K., and A. E. MacGuidwin. 2019. First report of the root-lesion nematode, Pratylenchus alleni, on soybean in Wisconsin. Plant Disease doi.org/10.1094/PDIS-03-19-0501-PDN.
-* Saikai, K., and A. E. MacGuidwin. 2018. Modeling the damage function of Pratylenchus penetrans on soybean using a nested error component model. Journal of Nematology 50:654 (Abstr.).
-* Kutsuwa, K., and A. E. MacGuidwin. 2017. Gender difference in lesion formations by Pratylenchus penetrans. Journal of Nematology 49: 508-509 (Abstr.).
 * Kutsuwa, K., D. W. Dickson, J. A. Brito., A. Jeyaprakash, and A. Drew. 2014.  Belonolaimus longicaudatus, an emerging pathogen of peanut in Florida. Journal of Nematology 47:87-96.  
-* Kutsuwa, K., D. W. Dickson, J. A. Brito., A. Jeyaprakash, and A. Drew. 2014. Investigation of an emerging pathogen, Belonolaimus sp., infecting peanut in Florida. Journal of nematology 46:191(Abstr.). 
 * Takeuchi, J., T. Ono., K. Kutsuwa., K. Morita., M. Sano., S. Kagiwada., K. Yazawa., K. Nishio., and H. Horie. 2012. First report of anthracnose of arthraxon hipidus by Collototichum destructivum and lychee by C. gloeosporioides found in Japan. Annual report of the kanto-tosan plant protection society 59:59-62.
-
 
  (Some of the publications are under my maiden name, Kutsuwa.)
 
