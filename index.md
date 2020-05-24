@@ -6,9 +6,6 @@ header:
 --- 
 
 
-# Welcome to Kanan Saikai's webpage!
-
-
 ## Who is Kanan Saikai 
 
 
