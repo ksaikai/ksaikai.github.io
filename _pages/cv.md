@@ -58,6 +58,6 @@ permalink: /cv/
 
 
 
-CV is also available in PDF ([CV](../CV_KananSaikai.pdf))
+CV is also available in PDF ([CV](../files/CV_KananSaikai.pdf))
 
 

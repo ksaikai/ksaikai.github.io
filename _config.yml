@@ -107,9 +107,9 @@ analytics:
 # Site Author
 author:
   name             : "Kanan Saikai"
-  avatar           : "kanan_profile.jpg"
-  bio              : "PhD candidate in Nematology/Plant Pathology"
-  location         : "Madison, WI"
+  avatar           : "files/kanan_profile.jpg"
+  bio              : "Postdoc at IITA"
+  location         : "Nairobi, Kenya"
   email            :
   links:
     - label: "Email"
