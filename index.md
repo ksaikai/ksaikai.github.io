@@ -6,7 +6,7 @@ header:
 --- 
 
 
-** Who is Kanan Saikai?**
+**Who is Kanan Saikai?**
 
 I am currently a postdoc at the International Institute of Tropical Agriculture in Nairobi, Kenya, advised by Dr. Daniel Coyne.
 I received my Ph.D. in Plant Pathology at the University of Wisconsin-Madison and M.S. in Plant Nematology at the University of Florida, advised by Dr. Ann E MacGuidwin and Dr. Don Dickson, respectively.
