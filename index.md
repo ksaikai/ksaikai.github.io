@@ -14,7 +14,4 @@ My research interests focus on plant-parasitic nematodes, its biology and modeli
 
 
  
-My husband, Yuji Saikai, also received his Ph.D degree recently in Agriculture and Applied Economics at the UW-Madison. His research interests are in computational modeling and its applications to agricultural and food systems. 
-[link](https://yujisaikai.com)
- 
  
