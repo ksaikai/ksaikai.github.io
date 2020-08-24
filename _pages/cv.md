@@ -4,7 +4,7 @@ permalink: /cv/
 --- 
 
 ### Research Interest
-My research focuses on the biology and impact of plant-parasitic nematodes, with projects that range in scale from tissue culture to the field. My interest is with all aspects of plant-parasitic nematode biology and the diseases they cause of agricultural crops. This includes basic and applied research, education, and outreach via extension programs for growers. I ahve a keen interest of plant disease risk from nematodes and thier impact on crop yields with emphasis on yield loss analyses.
+My research focuses on the biology and impact of plant-parasitic nematodes, with projects that range in scale from tissue culture to the field. My interest is with all aspects of plant-parasitic nematode biology and the diseases they cause of agricultural crops. This includes basic and applied research, education, and outreach via extension programs for growers. I have a keen interest of plant disease risk from nematodes and thier impact on crop yields with emphasis on yield loss analyses.
 
 
 ### Education 
