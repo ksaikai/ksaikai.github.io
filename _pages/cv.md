@@ -3,18 +3,30 @@ title: CV
 permalink: /cv/
 --- 
 
-### Education and Research Interests
+### Research Interest
+My research focuses on the biology and impact of plant-parasitic nematodes, with projects that range in scale from tissue culture to the field. My interest is with all aspects of plant-parasitic nematode biology and the diseases they cause of agricultural crops. This includes basic and applied research, education, and outreach via extension programs for growers. I ahve a keen interest of plant disease risk from nematodes and thier impact on crop yields with emphasis on yield loss analyses.
 
-#### The University of Wisconsin - Madison - Fall, 2014 to Fall, 2019
+
+### Education 
+
+#### The University of Wisconsin-Madison - Fall, 2014 to Fall, 2019 (Wisconsin, USA)
 * Plant Pathology PhD
 * PhD thesis: Characterizing the significance of Pratylenchus penetrans on soybean (Glycine max (L.) Merr.).
 
-#### The Univestiy of Florida - Fall, 2012 to Spring, 2014
+#### The Univestiy of Florida - Fall, 2012 to Spring, 2014 (Florida, USA)
 * Nematology MS
 * MS thesis: Investigation of Belonolaimus longicaudatus infecting peanut in Florida.
 
-#### Hosei University - Spring, 2008 to Spring, 2012
+#### Hosei University - Spring, 2008 to Spring, 2012 (Tokyo, Japan)
 * Plant Pathology BS
+
+
+### Professional Experience
+
+### International Institute of Tropical Agriculture - Sept. 2020~ (Nairobi, Kenya)
+* position: Guest/Visiting scholar (JSPS overseas research fellow)
+* research title: Management strategies against root-knot nematodes for coffee smallholders in Sub-Saharan Africa.
+* host researcher: Dr. Danny Coyne
 
 
 ### Publications
@@ -30,6 +42,7 @@ permalink: /cv/
 
 **working paper**
 * Saikai, K., and A. E. MacGuidwin. Soybean response to *Pratylenchus penetrans* in field and green house environments. (plannning to submit to Phytopathology in 2020)
+
 
 ### Skills
 * Trained for nematode disease diagnostics
