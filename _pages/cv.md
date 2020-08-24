@@ -20,7 +20,7 @@ permalink: /cv/
 ### Publications
 * Saikai, K., and A. E. MacGuidwin. 2020. Intraspecific variation in phenological and phylogenetic features among *Pratylenchus penetrans* isolates from Wisconsin, USA. Journal of Nematology (accepted with minor revisions).
 * Saikai, K., and A. E. MacGuidwin. 2020. Difference in lesion formation by male and female *Pratylenchus penetrans*. Journal of Nematology (in Press).
-* Vieira, P., Peetz, A., Mimee, B., Saikai, K., Mollov, D., MacGuidwin, A., Zasada, I., and Nemchinov, L. G. 2020. Prevalence of the root lesion nematode virus (RLNV1) in populations of *Pratylenchus penetrans* from North America. Journal of Nematology DOI:10.21307/jofnem-2020-045 (accepted).
+* Vieira, P., Peetz, A., Mimee, B., Saikai, K., Mollov, D., MacGuidwin, A., Zasada, I., and Nemchinov, L. G. 2020. Prevalence of the root lesion nematode virus (RLNV1) in populations of *Pratylenchus penetrans* from North America. Journal of Nematology DOI:10.21307/jofnem-2020-045.
 * Saikai, K., Z. A. Handoo, and A. E. MacGuidwin. 2019. First report of the root-lesion nematode, *Pratylenchus fallax*, on soybean in Wisconsin. Plant Disease doi.org/10.1094/PDIS-02-19-0288-PDN.
 * Saikai, K., and A. E. MacGuidwin. 2019. First report of the root-lesion nematode, *Pratylenchus alleni*, on soybean in Wisconsin. Plant Disease doi.org/10.1094/PDIS-03-19-0501-PDN.
 * Kutsuwa, K., D. W. Dickson, J. A. Brito., A. Jeyaprakash, and A. Drew. 2014.  *Belonolaimus longicaudatus*, an emerging pathogen of peanut in Florida. Journal of Nematology 47:87-96.  
