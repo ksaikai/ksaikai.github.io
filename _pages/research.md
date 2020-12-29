@@ -2,6 +2,11 @@
 title: "Research"
 permalink: /research/
 ---
+## @NemAfrica
+
+Please follow @NemAfrica, the joint nematology research unit of IITA-ICIPE, on Twitter!
+We tweet about our research/extension activities in Sub-Saharan Africa :)
+
 ## Soybean response to *Pratylenchus penetrans* in field and greenhouse environments.
 Saikai, K. and A. E. MacGuidwin.
 
