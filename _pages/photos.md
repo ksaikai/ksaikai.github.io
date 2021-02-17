@@ -3,6 +3,23 @@ title: "Nematode photos"
 permalink: /nematode/
 ---
 
+## NemAfrica!
+NemAfrica is the joint nematology research unit between IITA and ICIPE in Nairobi, Kenya.
+We conduct researches to enhance awareness of nematode problems in SSA and improve crop health to contribute livelihoods of small scale farmers.
+![](../files/tnematode mask.jpeg)
+
+As I lead the coffee nematode project, I introduce my team and our activities on coffee here but if you want to know more about our research activities please follow us on Twitter @NemAfrica 
+
+![](../files/team coffee.jpeg)
+![](../files/soil sampling.jpeg)
+![](../files/coffee farm.jpeg)
+![](../files/drenching.jpeg)
+
+*Meloiodgyne* spp on coffee is much neglected here in Kenya but they surely contribute the recent nationwide decline in coffee yields.
+![](../files/rkn and lesions_coffee.jpeg)
+
+
+
 ## Stitching imaging 
 ![](../files/rln734_stiching.png)
 Stitching imaging allows to "stitch" multiple images at high resolution. 
