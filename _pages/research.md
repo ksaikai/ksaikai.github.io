@@ -25,10 +25,9 @@ Saikai, K. and A. E. MacGuidwin.
 
 ## Difference in lesion formation by male and female *Pratylenchus penetrans*
 Saikai, K. and A. E. MacGuidwin.
+
 ([Saikai and MacGuidwin. 2020.](../files/Saikai and MacGuidwin_2020_lesion difference by gender.pdf)): Journal of Nematology
 
-
-http://www.exeley.com/journal_of_nematology/doi/10.21307/jofnem-2020-090.
 
 ## Prevalence of the root lesion nematode virus (RLNV1) in populations of *Pratylenchus penetrans* from North America.
 Vieira, P., A. Peetz, B. Mimee, K. Saikai, D. Mollov, A. MacGuidwin, I. Zasada, L. G. Nemchinov
