@@ -20,7 +20,7 @@ Working paper. Planning to submit in 2021 to Plant Disease.
 ## Intraspecific variation in phenological and phylogenetic features among *Pratylenchus penetrans* isolates from Wisconsin, USA.
 Saikai, K. and A. E. MacGuidwin.
 
-([Saikai and MacGuidwin. 2020.](../files/SaikaiandMacGuidwin_2020_intraspecific.pdf)): Journal of Nematology
+([Saikai and MacGuidwin. 2020.](../files/SaikaiandMacGuidwin_2020_IntraspecificVariation.pdf)): Journal of Nematology
 
 
 ## Difference in lesion formation by male and female *Pratylenchus penetrans*
