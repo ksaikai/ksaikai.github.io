@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /Research/
+permalink: /research/
 ---
 
 The currently working projects include an assessment of commercially available bioagents as a management of *Meloidogyne* spp. on coffee and its effect on soil health as well as development of rapid screening test of banana varieties against *Radopholus similis*.
