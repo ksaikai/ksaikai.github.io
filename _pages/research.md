@@ -1,6 +1,6 @@
 ---
-title: "Research"
-permalink: /research/
+title: "Publications"
+permalink: /Publications/
 ---
 ## @NemAfrica
 
@@ -10,17 +10,18 @@ We tweet about our research/extension activities in Sub-Saharan Africa :)
 ## Soybean response to *Pratylenchus penetrans* in field and greenhouse environments.
 Saikai, K. and A. E. MacGuidwin.
 
-Working paper. Planning to submit in 2020 to Phytopathology.
+Working paper. Planning to submit in 2021 to Plant Disease.
 
 ## Intraspecific variation in phenological and phylogenetic features among Pratylenchus penetrans isolates from Wisconsin, USA.
 Saikai, K. and A. E. MacGuidwin.
 
-InPress August 2020: Journal of Nematology
+([Saikai and MacGuidwin. 2020.](../files/Saikai and MacGuidwin_2020_intraspecific.pdf)): Journal of Nematology
+
 
 ## Difference in lesion formation by male and female *Pratylenchus penetrans*
 Saikai, K. and A. E. MacGuidwin.
+([Saikai and MacGuidwin. 2020.](../files/Saikai and MacGuidwin_2020_lesion difference by gender.pdf)): Journal of Nematology
 
-Published online August 2020: Journal of Nematology 
 
 http://www.exeley.com/journal_of_nematology/doi/10.21307/jofnem-2020-090.
 
