@@ -1,7 +1,12 @@
 ---
-title: "Publications"
-permalink: /Publications/
+title: "Research"
+permalink: /Research/
 ---
+
+The currently working projects include an assessment of commercially available bioagents as a management of *Meloidogyne* spp. on coffee and its effect on soil health as well as development of rapid screening test of banana varieties against *Radopholus similis*.
+
+
+
 ## @NemAfrica
 
 Please follow @NemAfrica, the joint nematology research unit of IITA-ICIPE, on Twitter!
@@ -12,7 +17,7 @@ Saikai, K. and A. E. MacGuidwin.
 
 Working paper. Planning to submit in 2021 to Plant Disease.
 
-## Intraspecific variation in phenological and phylogenetic features among Pratylenchus penetrans isolates from Wisconsin, USA.
+## Intraspecific variation in phenological and phylogenetic features among *Pratylenchus penetrans* isolates from Wisconsin, USA.
 Saikai, K. and A. E. MacGuidwin.
 
 ([Saikai and MacGuidwin. 2020.](../files/Saikai and MacGuidwin_2020_intraspecific.pdf)): Journal of Nematology
@@ -25,7 +30,7 @@ Saikai, K. and A. E. MacGuidwin.
 
 http://www.exeley.com/journal_of_nematology/doi/10.21307/jofnem-2020-090.
 
-## Prevalence of the root lesion nematode virus (RLNV1) in populations of Pratylenchus penetrans from North America.
+## Prevalence of the root lesion nematode virus (RLNV1) in populations of *Pratylenchus penetrans* from North America.
 Vieira, P., A. Peetz, B. Mimee, K. Saikai, D. Mollov, A. MacGuidwin, I. Zasada, L. G. Nemchinov
 
 Published online on May 2020: Journal of Nematology
