@@ -5,7 +5,7 @@ permalink: /nematode/
 
 ## NemAfrica!
 NemAfrica is the joint nematology research unit between IITA and ICIPE in Nairobi, Kenya.
-We conduct researches to enhance awareness of nematode problems in SSA and improve crop health to contribute for better livelihoods of smallholders.
+We work on nematode problems in SSA and improve crop health to contribute for better livelihoods of smallholders.
 ![](../files/nematode_mask.jpeg)
 
 As I lead the coffee nematode project, I introduce my team and our activities on coffee here but if you want to know more about our other research activities please follow us on Twitter @NemAfrica 
