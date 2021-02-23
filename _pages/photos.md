@@ -13,7 +13,7 @@ The picture shows Dr. Daniel Coyne wearing our nematology mask.
 
 As I lead the coffee nematode project, I introduce my team and our activities on coffee here but if you want to know more about our other research activities please follow us on Twitter @NemAfrica 
 
-My coffee team, from left to right: Celestine Oduori (MSc student of University of Nairobi), myself, and Wanjara Situma (Intern at IITA).
+The coffee team enjoying Nyama-Choma. From left to right: Celestine Oduori (MSc student of University of Nairobi), myself, and Wanjara Situma (Intern at IITA).
 
 ![](../files/team_coffee.jpeg)
 
@@ -35,17 +35,20 @@ Our bioagent applications. Dilute bioagents in 20L of water and drench over the 
 
 ## Stitching imaging 
 ![](../files/rln734_stiching.png)
+
 Stitching imaging allows to "stitch" multiple images at high resolution. 
 
 ## Aggregative behaviour of *Pratylenchus* spp. 
 ![](../files/nema_aggregation1.jpg)
 ![](../files/nema_aggregation2.jpg)
+
 I find their aggregative behaviour very fascinating. 
 *Pratylenchus* spp. can be easily grown on a tissue culture, so that allows us to observe their behaviour easier than *in vivo*.
 
 ## Yellowing by *Pratylenchus penetrans* on pea in Wisconsin
 Photocredit. Dr. Ann E. MacGuidwin
 ![](../files/pea_RlnDamage.jpg)
+
 *Pratylenchus* spp. is the third most economically important neamtode pathogen, and yet their damage potential is not well studied for many crops. This picture clealy indicates the impact of the neamtode on crop health!
 
 
