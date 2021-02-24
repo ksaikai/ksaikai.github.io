@@ -27,7 +27,7 @@ Our bioagent applications. Dilute bioagents in 20L of water and drench over a tr
 
 ![](../files/drenching.jpeg)
 
-*Meloiodgyne* spp on coffee is much neglected here in Kenya but they are surely contribute for the recent nationwide decline in coffee yields.
+*Meloiodgyne* spp on coffee is much neglected here in Kenya but this nematode pest surely contributes for the recent nationwide decline in coffee yields.
 
 ![](../files/rkn_and_lesions_coffee.jpeg)
 
