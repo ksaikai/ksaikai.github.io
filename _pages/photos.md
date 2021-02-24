@@ -4,7 +4,7 @@ permalink: /nematode/
 ---
 
 ## NemAfrica!
-NemAfrica is the joint nematology research unit between IITA and ICIPE in Nairobi, Kenya.
+NemAfrica is the joint nematology research unit of IITA and ICIPE in Nairobi, Kenya.
 We work on nematode problems in SSA and improve crop health to contribute for better livelihoods of smallholders.
 
 The picture shows Dr. Daniel Coyne wearing our nematology mask.
@@ -23,7 +23,7 @@ Celestine collecting soil samples at a coffee field.
 
 ![](../files/coffee_farm.jpeg)
 
-Our bioagent applications. Dilute bioagents in 20L of water and drench over the tree trunk.
+Our bioagent applications. Dilute bioagents in 20L of water and drench over a tree trunk.
 
 ![](../files/drenching.jpeg)
 
