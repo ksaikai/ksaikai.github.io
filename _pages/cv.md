@@ -53,6 +53,7 @@ My research focuses on the biology and impact of plant-parasitic nematodes, with
 
 
 ### Awards
+* Schroth Faces of the Future Award: The American Phytopathological Society - 2021
 * Rod Rodríguez-Kábana student poster competition 1st place: Organization of Nematologists of Tropical America annual meeting - 2019.
 * Student paper competition 2nd place: Society of Nematologists annual meeting - 2019.
 * Bayer Graduate Student Travel Award: Society of Nematologists annual meeting - 2019.
