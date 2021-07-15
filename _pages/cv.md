@@ -30,6 +30,7 @@ My research focuses on the biology and impact of plant-parasitic nematodes, with
 
 
 ### Publications
+* Saikai, K., Wanjala, S., Oduori, C., and Coyne, D. 2021. Revisiting the modified Baermann extraction method: extraction efficiency of *Radopholus similis* using different extraction material. Nematology *In Press*.
 * Saikai, K., and A. E. MacGuidwin. 2020. Intraspecific variation in phenological and phylogenetic features among *Pratylenchus penetrans* isolates from Wisconsin, USA. Journal of Nematology doi.org/10.21307/jofnem-2020-102.
 * Saikai, K., and A. E. MacGuidwin. 2020. Difference in lesion formation by male and female *Pratylenchus penetrans*. Journal of Nematology doi.org/10.21307/jofnem-2020-090.
 * Vieira, P., Peetz, A., Mimee, B., Saikai, K., Mollov, D., MacGuidwin, A., Zasada, I., and Nemchinov, L. G. 2020. Prevalence of the root lesion nematode virus (RLNV1) in populations of *Pratylenchus penetrans* from North America. Journal of Nematology DOI:10.21307/jofnem-2020-045.
@@ -42,7 +43,6 @@ My research focuses on the biology and impact of plant-parasitic nematodes, with
 
 **working paper**
 * Saikai, K., and A. E. MacGuidwin. Loss of soybean yield and yield components to Pratylenchus penetrans in Wisconsin, USA (Manuscript in preparation for Phytopathology).
-* Saikai, K., Wanjara, S., and Coyne, D. Evaluation of extraction efficiency for Radopholus similis using different variations of the modified Baermann method (Manuscript in preparation for Nematology).
 
 
 ### Skills
