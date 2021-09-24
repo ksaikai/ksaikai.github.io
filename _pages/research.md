@@ -15,7 +15,7 @@ We tweet about our research/extension activities in Sub-Saharan Africa :)
 ## Soybean response to *Pratylenchus penetrans* in field and greenhouse environments.
 Saikai, K. and A. E. MacGuidwin.
 
-Working paper. Planning to submit in 2021 to Plant Disease.
+Submitted to Plant Disease.
 
 ## Intraspecific variation in phenological and phylogenetic features among *Pratylenchus penetrans* isolates from Wisconsin, USA.
 Saikai, K. and A. E. MacGuidwin.
