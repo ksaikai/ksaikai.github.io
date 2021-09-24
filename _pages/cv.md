@@ -9,11 +9,8 @@ My research focuses on the biology and impact of plant-parasitic nematodes, with
 
 ### Education 
 
-**The University of Wisconsin-Madison - Fall, 2014 to Fall, 2019 (Wisconsin, USA)**
-* Plant Pathology PhD
-
-**The Univestiy of Florida - Fall, 2012 to Spring, 2014 (Florida, USA)**
-* Nematology MS
+* The University of Wisconsin-Madison - Fall, 2014 to Fall, 2019 (Wisconsin, USA): Plant Pathology PhD
+* The Univestiy of Florida - Fall, 2012 to Spring, 2014 (Florida, USA): Nematology MS
 
 ### Professional Experience
 
