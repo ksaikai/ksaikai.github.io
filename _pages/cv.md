@@ -9,17 +9,11 @@ My research focuses on the biology and impact of plant-parasitic nematodes, with
 
 ### Education 
 
-#### The University of Wisconsin-Madison - Fall, 2014 to Fall, 2019 (Wisconsin, USA)
+**The University of Wisconsin-Madison - Fall, 2014 to Fall, 2019 (Wisconsin, USA)**
 * Plant Pathology PhD
-* PhD thesis: Characterizing the significance of Pratylenchus penetrans on soybean (Glycine max (L.) Merr.).
 
-#### The Univestiy of Florida - Fall, 2012 to Spring, 2014 (Florida, USA)
+**The Univestiy of Florida - Fall, 2012 to Spring, 2014 (Florida, USA)**
 * Nematology MS
-* MS thesis: Investigation of Belonolaimus longicaudatus infecting peanut in Florida.
-
-#### Hosei University - Spring, 2008 to Spring, 2012 (Tokyo, Japan)
-* Plant Pathology BS
-
 
 ### Professional Experience
 
@@ -53,26 +47,18 @@ My research focuses on the biology and impact of plant-parasitic nematodes, with
 
 
 ### Awards
+* JSPS oversea research fellow - 2020-2022
 * Schroth Faces of the Future Award: The American Phytopathological Society - 2021
 * Rod Rodríguez-Kábana student poster competition 1st place: Organization of Nematologists of Tropical America annual meeting - 2019.
 * Student paper competition 2nd place: Society of Nematologists annual meeting - 2019.
-* Bayer Graduate Student Travel Award: Society of Nematologists annual meeting - 2019.
-* The Walter R. Stevenson Graduate Student Travel Award: The UW-Madison - 2019	.
 * Scholarship award from Japan Student Services Organization 2015-2018 
 * Scholarship award from Japan Student Services Organization 2012-2014
-* Bayer Graduate Student Travel Award: Society of Nematologists annual meeting - 2018.
-* The Dow AgroSciences Graduate Student Travel Award: Society of Nematologists annual meeting - 2017.
-* The ONTA Foundation Travel Award: the 6th International Congress of Nematology - 2014
 
 
 ### Teaching
 * T.A. for PL Path/ Botany 123 Plants, Parasites, and People - Fall 2016
 ([TA evaluation](../files/PP123_evaluation_ksaikai.pdf))
 
-
-### Committee
-* Extension committee of Society of Nematologists – 2018-2019
-* Student committee of Society of Nematologists – 2018-2019
 
 
 
