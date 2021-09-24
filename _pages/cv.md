@@ -15,11 +15,9 @@ My research focuses on the biology and impact of plant-parasitic nematodes, with
 ### Professional Experience
 
 * International Institute of Tropical Agriculture - Sept. 2020~ (Nairobi, Kenya)
-  position: Guest/Visiting scholar (JSPS overseas research fellow)
-
-  research title: Management strategies against root-knot nematodes for coffee smallholders in Sub-Saharan Africa.
-
-  host researcher: Dr. Danny Coyne
+  - position: Guest/Visiting scholar (JSPS overseas research fellow)
+  - research title: Management strategies against root-knot nematodes for coffee smallholders in Sub-Saharan Africa.
+  - host researcher: Dr. Danny Coyne
 
 
 ### Publications
