@@ -12,10 +12,32 @@ Currently working projects include an assessment of commercially available bioag
 Please follow @NemAfrica, the joint nematology research unit of IITA-ICIPE, on Twitter!
 We tweet about our research/extension activities in Sub-Saharan Africa :)
 
-## Soybean response to *Pratylenchus penetrans* in field and greenhouse environments.
-Saikai, K. and A. E. MacGuidwin.
+## evisiting the modified Baermann extraction method: extraction efficiency of Radopholus similis using different extraction materials. 
+Saikai, K., S. Wanjala, C. Oduori, and D. Coyne. 2021. 
+Published to Nematology 23:1215-1218.
 
-Submitted to Plant Disease.
+## Biological agents to manage *Meloidogyne hapla* on coffee in Kenya.
+Saikai, K., C. Oduori, S. Wanjala, and D. Coyne.
+Working paper
+
+## Nematode problems and their sustainable management in maize
+working book chapter
+Coauthors for the chapter: Horacio Lopez-Nicora, Deliang Peng, Kanan Saikai and Milad Rashidifard
+Editors: Mujeebur Rahman Khan and Marisol Quintanilla
+
+
+
+Below publications are from my graduate studies (MS and Ph.D)
+
+## Impact of *Pratylenchus penetrans* for soybean grown in Wisconsin, USA.
+Saikai, K. and A. E. MacGuidwin.
+Published online: Plant Disease https://doi.org/10.1094/PDIS-09-21-1888-RE
+
+
+## Pratylenchus smoliki, a new Nematode Species (Pratylenchidae: Tylenchomorpha) from the Great Plains Region of North America.
+Powers, T., T. Todd, T. Harris, R. Higgins, A. MacGuidwin, P. Mullin, M. Ozbayrak, K. Powers, and K. Saikai. 2021.  
+Published online: Journal of Nematology https://doi.org/10.21307/jofnem-2021-100.
+
 
 ## Intraspecific variation in phenological and phylogenetic features among *Pratylenchus penetrans* isolates from Wisconsin, USA.
 Saikai, K. and A. E. MacGuidwin.
