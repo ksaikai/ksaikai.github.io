@@ -18,11 +18,14 @@ Published to Nematology 23:1215-1218.
 
 ## Biological agents to manage *Meloidogyne hapla* on coffee in Kenya.
 Saikai, K., C. Oduori, S. Wanjala, and D. Coyne.
+
 Working paper
 
 ## Nematode problems and their sustainable management in maize
 working book chapter
+
 Coauthors for the chapter: Horacio Lopez-Nicora, Deliang Peng, Kanan Saikai and Milad Rashidifard
+
 Editors: Mujeebur Rahman Khan and Marisol Quintanilla
 
 
