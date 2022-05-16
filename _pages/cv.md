@@ -22,8 +22,8 @@ My research focuses on the biology and impact of plant-parasitic nematodes, with
 
 ### Publications
 
-* Saikai, K. and A. E. MacGuidwin. 2021. Impact of Pratylenchus penetrans for soybean grown in Wisconsin, USA. Plant Disease https://doi.org/10.1094/PDIS-09-21-1888-RE.
-* Powers, T., Todd, T., Harris, T., Higgins, R., MacGuidwin, A., Mullin, P., Ozbayrak, M., Powers, K., and Saikai, K. 2021. Pratylenchus smoliki, a new Nematode Species (Pratylenchidae: Tylenchomorpha) from the Great Plains Region of North America. Journal of Nematology https://doi.org/10.21307/jofnem-2021-100.
+* Saikai, K. and A. E. MacGuidwin. 2022. Impact of *Pratylenchus penetrans* for soybean grown in Wisconsin, USA. Plant Disease https://doi.org/10.1094/PDIS-09-21-1888-RE.
+* Powers, T., Todd, T., Harris, T., Higgins, R., MacGuidwin, A., Mullin, P., Ozbayrak, M., Powers, K., and Saikai, K. 2021. *Pratylenchus smoliki*, a new Nematode Species (Pratylenchidae: Tylenchomorpha) from the Great Plains Region of North America. Journal of Nematology https://doi.org/10.21307/jofnem-2021-100.
 * Saikai, K., Wanjala, S., Oduori, C., and Coyne, D. 2021. Revisiting the modified Baermann extraction method: extraction efficiency of *Radopholus similis* using different extraction material. Nematology 23:1215-1218.
 * Saikai, K., and A. E. MacGuidwin. 2020. Intraspecific variation in phenological and phylogenetic features among *Pratylenchus penetrans* isolates from Wisconsin, USA. Journal of Nematology https://doi.org/10.21307/jofnem-2020-102.
 * Saikai, K., and A. E. MacGuidwin. 2020. Difference in lesion formation by male and female *Pratylenchus penetrans*. Journal of Nematology https://doi.org/10.21307/jofnem-2020-090.
