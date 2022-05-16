@@ -12,7 +12,7 @@ Currently working projects include an assessment of commercially available bioag
 Please follow @NemAfrica, the joint nematology research unit of IITA-ICIPE, on Twitter!
 We tweet about our research/extension activities in Sub-Saharan Africa :)
 
-## evisiting the modified Baermann extraction method: extraction efficiency of Radopholus similis using different extraction materials. 
+## Revisiting the modified Baermann extraction method: extraction efficiency of Radopholus similis using different extraction materials. 
 Saikai, K., S. Wanjala, C. Oduori, and D. Coyne. 2021. 
 Published to Nematology 23:1215-1218.
 
