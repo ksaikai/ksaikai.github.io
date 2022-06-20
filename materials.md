@@ -27,10 +27,9 @@ permalink: /material/
 
 
 
-- **Plant Health 2021**
+- **Plant Health 2021**  
+    **(Schroth Faces of the Future Award)** 
 
-**(Schroth Faces of the Future Award)** 
-    
     August 2-6, 2021 (Online)  
     Title "Wrap & Plant", novel nematode management"  
     [Click here for the slide](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/PlantHealth2021.pdf)
