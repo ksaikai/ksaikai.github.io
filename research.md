@@ -11,8 +11,7 @@ Currently working projects include an assessment of commercially available bioag
     (Working paper)
 
 
-- **Nematode problems and their sustainable management in maize**
-
+- **Nematode problems and their sustainable management in maize**  
     Coauthors for the chapter: Horacio Lopez-Nicora, Deliang Peng, Kanan Saikai and Milad Rashidifard  
     Editors: Mujeebur Rahman Khan and Marisol Quintanilla  
     (working book chapter)
