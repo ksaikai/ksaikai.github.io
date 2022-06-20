@@ -21,7 +21,7 @@ Title "Overview of non-parasitic nematodes: the good, the bad and **the informat
 November 4, 2021 (Online)
 
 Title "Towards more efficient nematode resistance screening in banana: progress and challenges"
-[Click here for the slide]("./files/ABBB .pdf")
+[Click here for the slide]("./files/ABBB.pdf")
 
 
 ## Plant Health 2021 
@@ -29,7 +29,7 @@ Title "Towards more efficient nematode resistance screening in banana: progress 
 August 2-6, 2021 (Online)
 
 Title "Wrap & Plant", novel nematode management"
-[Click here for the slide]("./files/PlantHealth2021 .pdf")
+[Click here for the slide]("./files/PlantHealth2021.pdf")
 
 
 ## Syngenta workshop
