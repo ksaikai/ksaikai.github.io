@@ -44,13 +44,13 @@ Published online: [Journal of Nematology](https://doi.org/10.21307/jofnem-2021-1
 
 - **Intraspecific variation in phenological and phylogenetic features among *Pratylenchus penetrans* isolates from Wisconsin, USA.**
 
-[Saikai, K. and A. E. MacGuidwin.](../files/SaikaiandMacGuidwin_2020_IntraspecificVariation.pdf)): Journal of Nematology
+[Saikai, K. and A. E. MacGuidwin.](../files/SaikaiandMacGuidwin_2020_IntraspecificVariation.pdf): Journal of Nematology
 
 
 
 - **Difference in lesion formation by male and female *Pratylenchus penetrans** 
 
-[Saikai, K. and A. E. MacGuidwin.](../files/SaikaiandMacGuidwin_2020_lesionDifferenceByGender.pdf)): Journal of Nematology
+[Saikai, K. and A. E. MacGuidwin.](../files/SaikaiandMacGuidwin_2020_lesionDifferenceByGender.pdf): Journal of Nematology
 
 
 
@@ -63,7 +63,7 @@ Published online on May 2020: [Journal of Nematology](https://www.exeley.com/jou
 
 - **Investigation of *Belonolaumus longicaudatus* on peanut in Florida**
 
-[Kutsuwa*, K., D. W. Dickson, J. A. Brito, A. Jeyaprakash, and A. Drew.](../files/Kutsuwa_et_al_2015_BelonolaimusOnPeanut.pdf)): Journal of Nematology
+[Kutsuwa*, K., D. W. Dickson, J. A. Brito, A. Jeyaprakash, and A. Drew.](../files/Kutsuwa_et_al_2015_BelonolaimusOnPeanut.pdf): Journal of Nematology
 
 
 
