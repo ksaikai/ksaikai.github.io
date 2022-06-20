@@ -5,13 +5,13 @@ permalink: /material/
 
 - **7th International Congress of Nematology** 
 
-    May 1-7, 2022 @Antibes Juan-Les-Pins, France　　Title "Biological agents to invigorate the health of established coffee trees by managing plant parasitic nematodes."　　[Click here for the slide](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/ICN2022.pdf)
+    May 1-7, 2022 @Antibes Juan-Les-Pins, France  Title "Biological agents to invigorate the health of established coffee trees by managing plant parasitic nematodes."  [Click here for the slide](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/ICN2022.pdf)
 
 
 
 - **Basic Crash Course Nematology**
 
-    13 December, 2021 @ Nairobi, Kenya　　Title "Overview of non-parasitic nematodes: the good, the bad and **the informative**"　　[Click here for the slide](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/BCCN2021.pdf)
+    13 December, 2021 @ Nairobi, Kenya  Title "Overview of non-parasitic nematodes: the good, the bad and **the informative**"  [Click here for the slide](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/BCCN2021.pdf)
 
 
 
@@ -25,7 +25,7 @@ permalink: /material/
 
 **(Schroth Faces of the Future Award)** 
     
-    August 2-6, 2021 (Online)　　Title "Wrap & Plant", novel nematode management"　[Click here for the slide](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/PlantHealth2021.pdf)
+    August 2-6, 2021 (Online)　　Title "Wrap & Plant", novel nematode management"　[Click here for the slide] (https://github.com/ksaikai/ksaikai.github.io/blob/master/files/PlantHealth2021.pdf)
 
 
 
