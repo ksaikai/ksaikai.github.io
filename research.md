@@ -28,7 +28,6 @@ Currently working projects include an assessment of commercially available bioag
 ## 2021
 - **Revisiting the modified Baermann extraction method: extraction efficiency of Radopholus similis using different extraction materials.**  
     [Saikai, K., S. Wanjala, C. Oduori, and D. Coyne.](../files/Saikai_et_al_2021_baermann.pdf): Nematology  
-    Published to Nematology 23:1215-1218.
 
 
 - **Pratylenchus smoliki, a new Nematode Species (Pratylenchidae: Tylenchomorpha) from the Great Plains Region of North America.**  
