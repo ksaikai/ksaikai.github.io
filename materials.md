@@ -7,7 +7,7 @@ permalink: /material/
 May 1-7, 2022 @Antibes Juan-Les-Pins, France
 
 Title "Biological agents to invigorate the health of established coffee trees by managing plant parasitic nematodes."
-[Click here for the slide]("/files/ICN2022.pdf")
+[Click here for the slide]("files/ICN2022.pdf")
 
 
 ## Basic Crash Course Nematology
@@ -15,6 +15,7 @@ Title "Biological agents to invigorate the health of established coffee trees by
 
 Title "Overview of non-parasitic nematodes: the good, the bad and **the informative**"
 [Click here for the slide]("/files/BCCN2021.pdf")
+
 
 
 ## Breeding Better Banana
