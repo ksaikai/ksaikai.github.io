@@ -28,9 +28,8 @@ Title "Towards more efficient nematode resistance screening in banana: progress 
 
 
 - **Plant Health 2021**
-**(Schroth Faces of the Future Award)**
 
-August 2-6, 2021 (Online)
+**(Schroth Faces of the Future Award)** August 2-6, 2021 (Online)
 
 Title "Wrap & Plant", novel nematode management"
 [Click here for the slide](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/PlantHealth2021.pdf)
@@ -45,6 +44,7 @@ Title "Non-parasitic nematodes"
 
 
 - **The Organization of Nematologists of Tropical America Annual Meeting**
+
 **(Rod Rodriguez-Kabana student poster competition 1st place)**
 August, 2019, San Jose, Costa Rica
 
@@ -53,7 +53,8 @@ Title "A search for the best yield predictor for root lesion nematodes - A case 
 
 
 - **The Society of Nematologists Annual Meeting**
-**Student paper competition 2nd place**
+
+**(Student paper competition 2nd place)**
 August, 2019, Raleigh, NC, USA
 
 Title "Damage potential of *Pratylenchus penetrans* on soybean"
