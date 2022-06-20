@@ -15,7 +15,7 @@ Title "Biological agents to invigorate the health of established coffee trees by
 13 December, 2021 @ Nairobi, Kenya
 
 Title "Overview of non-parasitic nematodes: the good, the bad and **the informative**"
-[Click here for the slide]("..../files/BCCN2021.pdf")
+[Click here for the slide]("../files/BCCN2021.pdf")
 
 
 
@@ -23,7 +23,7 @@ Title "Overview of non-parasitic nematodes: the good, the bad and **the informat
 November 4, 2021 (Online)
 
 Title "Towards more efficient nematode resistance screening in banana: progress and challenges"
-[Click here for the slide]("../files/ABBB.pdf")
+[Click here for the slide]("https://github.com/ksaikai/ksaikai.github.io/blob/master/files/ABBB.pdf")
 
 
 
