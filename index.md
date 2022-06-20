@@ -1,10 +1,3 @@
----
-layout: single
-author_profile: true 
-header:
-  image: "files/github_ks_frontimage.jpg" 
---- 
-
 
 **Who is Kanan Saikai?**
 
