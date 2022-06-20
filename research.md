@@ -27,7 +27,7 @@ Currently working projects include an assessment of commercially available bioag
 
 ## 2021
 - **Revisiting the modified Baermann extraction method: extraction efficiency of Radopholus similis using different extraction materials.**  
-    [Saikai, K., S. Wanjala, C. Oduori, and D. Coyne.](../files/Saikai_et_al_2021_baermann.pdf): Nematology  
+    [Saikai, K., S. Wanjala, C. Oduori, and D. Coyne.](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/Saikai_et_al_2021_baermann.pdf): Nematology  
 
 
 - **Pratylenchus smoliki, a new Nematode Species (Pratylenchidae: Tylenchomorpha) from the Great Plains Region of North America.**  
@@ -37,11 +37,11 @@ Currently working projects include an assessment of commercially available bioag
 
 ## 2020
 - **Intraspecific variation in phenological and phylogenetic features among *Pratylenchus penetrans* isolates from Wisconsin, USA.**  
-    [Saikai, K. and A. E. MacGuidwin.](../files/SaikaiandMacGuidwin_2020_IntraspecificVariation.pdf): Journal of Nematology
+    [Saikai, K. and A. E. MacGuidwin.](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/SaikaiandMacGuidwin_2020_IntraspecificVariation.pdf): Journal of Nematology
 
 
 - **Difference in lesion formation by male and female *Pratylenchus penetrans**   
-    [Saikai, K. and A. E. MacGuidwin.](../files/SaikaiandMacGuidwin_2020_lesionDifferenceByGender.pdf): Journal of Nematology
+    [Saikai, K. and A. E. MacGuidwin.](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/SaikaiandMacGuidwin_2020_lesionDifferenceByGender.pdf): Journal of Nematology
 
 
 - **Prevalence of the root lesion nematode virus (RLNV1) in populations of *Pratylenchus penetrans* from North America.**  
@@ -62,7 +62,7 @@ Currently working projects include an assessment of commercially available bioag
 
 ## 2015
 - **Investigation of *Belonolaumus longicaudatus* on peanut in Florida**  
-    [Kutsuwa, K., D. W. Dickson, J. A. Brito, A. Jeyaprakash, and A. Drew.](../files/Kutsuwa_et_al_2015_BelonolaimusOnPeanut.pdf): Journal of Nematology
+    [Kutsuwa, K., D. W. Dickson, J. A. Brito, A. Jeyaprakash, and A. Drew.](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/Kutsuwa_et_al_2015_BelonolaimusOnPeanut.pdf): Journal of Nematology
 
 
 Note: Kutsuwa is my maiden name.
