@@ -7,7 +7,7 @@ permalink: /material/
 May 1-7, 2022 @Antibes Juan-Les-Pins, France
 
 Title "Biological agents to invigorate the health of established coffee trees by managing plant parasitic nematodes."
-[Click here for the slide]("./files/ICN2022.pdf")
+[Click here for the slide]("../files/ICN2022.pdf")
 
 
 
@@ -15,7 +15,7 @@ Title "Biological agents to invigorate the health of established coffee trees by
 13 December, 2021 @ Nairobi, Kenya
 
 Title "Overview of non-parasitic nematodes: the good, the bad and **the informative**"
-[Click here for the slide]("./files/BCCN2021.pdf")
+[Click here for the slide]("../files/BCCN2021.pdf")
 
 
 
@@ -24,7 +24,7 @@ Title "Overview of non-parasitic nematodes: the good, the bad and **the informat
 November 4, 2021 (Online)
 
 Title "Towards more efficient nematode resistance screening in banana: progress and challenges"
-[Click here for the slide]("./files/ABBB.pdf")
+[Click here for the slide]("../files/ABBB.pdf")
 
 
 
@@ -34,7 +34,7 @@ Title "Towards more efficient nematode resistance screening in banana: progress 
 August 2-6, 2021 (Online)
 
 Title "Wrap & Plant", novel nematode management"
-[Click here for the slide]("./files/PlantHealth2021.pdf")
+[Click here for the slide]("../files/PlantHealth2021.pdf")
 
 
 
@@ -50,7 +50,7 @@ Title "Non-parasitic nematodes"
 August, 2019, San Jose, Costa Rica
 
 Title "A search for the best yield predictor for root lesion nematodes - A case study of *Pratylenchus penetrans* on soybean"
-[Click here for the poster]("./files/ONTA2019_poster.pdf")
+[Click here for the poster]("../files/ONTA2019_poster.pdf")
 
 
 - **The Society of Nematologists Annual Meeting**
@@ -58,13 +58,13 @@ Title "A search for the best yield predictor for root lesion nematodes - A case 
 August, 2019, Raleigh, NC, USA
 
 Title "Damage potential of *Pratylenchus penetrans* on soybean"
-[Click here for the slide]("./files/SON2019.pdf")
+[Click here for the slide]("../files/SON2019.pdf")
 
 
 - **Ph.D dissertation**
 December 3, 2019
 
 Title "Characterizing the significance of *Pratylenchus penetrans* on soybean
-[Click here for the slide]("./files/PhDdissertation.pdf")
+[Click here for the slide]("../files/PhDdissertation.pdf")
 
 
