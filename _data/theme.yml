@@ -2,5 +2,5 @@ skin: soft
 
 navigation_pages:
   - cv.md
-  - publication.md
-  - material.md
+  - research.md
+  - materials.md
