@@ -10,5 +10,5 @@ My research interests focus on plant-parasitic nematodes, its biology and modeli
 Please follow [@NemAfrica](https://twitter.com/NemAfrica), the joint nematology research unit of IITA-ICIPE, on Twitter!
 We tweet about our research/extension activities in Sub-Saharan Africa :)
 
- 
+My [CV](./cv/) and [publications](./publication/) are available from the side bar on the right corner of the main page.
  
