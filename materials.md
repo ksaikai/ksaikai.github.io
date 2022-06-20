@@ -33,7 +33,7 @@ permalink: /material/
     
     August 2-6, 2021 (Online)  
     Title "Wrap & Plant", novel nematode management"  
-    [Click here for the slide] (https://github.com/ksaikai/ksaikai.github.io/blob/master/files/PlantHealth2021.pdf)
+    [Click here for the slide](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/PlantHealth2021.pdf)
 
 
 
