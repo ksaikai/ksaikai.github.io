@@ -5,13 +5,7 @@ permalink: /publication/
 
 Currently working projects include an assessment of commercially available bioagents as a management of *Meloidogyne* spp. on coffee and its effect on soil health as well as development of rapid screening test of banana varieties against *Radopholus similis*.
 
-
-- **Revisiting the modified Baermann extraction method: extraction efficiency of Radopholus similis using different extraction materials.**
-
-    Saikai, K., S. Wanjala, C. Oduori, and D. Coyne. 2021.  
-    Published to Nematology 23:1215-1218.
-
-
+## Working paper
 - **Biological agents to manage *Meloidogyne hapla* on coffee in Kenya.**
 
     Saikai, K., C. Oduori, S. Wanjala, and D. Coyne.  
@@ -23,6 +17,13 @@ Currently working projects include an assessment of commercially available bioag
     Coauthors for the chapter: Horacio Lopez-Nicora, Deliang Peng, Kanan Saikai and Milad Rashidifard  
     Editors: Mujeebur Rahman Khan and Marisol Quintanilla  
     (working book chapter)
+    
+
+## 2021
+- **Revisiting the modified Baermann extraction method: extraction efficiency of Radopholus similis using different extraction materials.**
+
+    [Saikai, K., S. Wanjala, C. Oduori, and D. Coyne.](../files/Saikai_et_al_2021_baermann.pdf): Nematology  
+    Published to Nematology 23:1215-1218.
 
 
 - **Impact of *Pratylenchus penetrans* for soybean grown in Wisconsin, USA.**
@@ -37,6 +38,7 @@ Currently working projects include an assessment of commercially available bioag
     Published online: [Journal of Nematology](https://doi.org/10.21307/jofnem-2021-100)
 
 
+## 2020
 - **Intraspecific variation in phenological and phylogenetic features among *Pratylenchus penetrans* isolates from Wisconsin, USA.**
 
     [Saikai, K. and A. E. MacGuidwin.](../files/SaikaiandMacGuidwin_2020_IntraspecificVariation.pdf): Journal of Nematology
@@ -53,11 +55,7 @@ Currently working projects include an assessment of commercially available bioag
     Published online on May 2020: [Journal of Nematology](https://www.exeley.com/journal_of_nematology/doi/10.21307/jofnem-2020-045.)
 
 
-- **Investigation of *Belonolaumus longicaudatus* on peanut in Florida**
-
-    [Kutsuwa*, K., D. W. Dickson, J. A. Brito, A. Jeyaprakash, and A. Drew.](../files/Kutsuwa_et_al_2015_BelonolaimusOnPeanut.pdf): Journal of Nematology
-
-
+## 2019
 - **First report of *Pratylenchus fallax* on soybean in Wisconsin**
 
     Saikai, K., Z. A. Handoo, and A. E. MacGuidwin  
@@ -69,6 +67,11 @@ Currently working projects include an assessment of commercially available bioag
     Saikai, K. and A. E. MacGuidwin.  
     Published Online on 22 Apr 2019: [Plant Disease](https://doi.org/10.1094/PDIS-03-19-0501-PDN)
 
+
+## 2015
+- **Investigation of *Belonolaumus longicaudatus* on peanut in Florida**
+
+    [Kutsuwa, K., D. W. Dickson, J. A. Brito, A. Jeyaprakash, and A. Drew.](../files/Kutsuwa_et_al_2015_BelonolaimusOnPeanut.pdf): Journal of Nematology
 
 
 Note: Kutsuwa is my maiden name.
