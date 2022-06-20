@@ -1,1 +1,6 @@
 skin: soft
+
+navigation_pages:
+  - cv.md
+  - publication.md
+  - material.md
