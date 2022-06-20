@@ -3,9 +3,11 @@ title: "Publications"
 permalink: /publication/
 ---
 
-Currently working projects include an assessment of commercially available bioagents as a management of *Meloidogyne* spp. on coffee and its effect on soil health as well as development of rapid screening test of banana varieties against *Radopholus similis*.
 
-## Working paper
+## Working paper  
+Currently working projects include an assessment of commercially available bioagents as a management of *Meloidogyne* spp. on coffee and its effect on soil health as well as development of rapid screening test of banana varieties against *Radopholus similis*.  
+
+
 - **Biological agents to manage *Meloidogyne hapla* on coffee in Kenya.**  
     Saikai, K., C. Oduori, S. Wanjala, and D. Coyne.  
     (Working paper)
@@ -15,17 +17,18 @@ Currently working projects include an assessment of commercially available bioag
     Coauthors for the chapter: Horacio Lopez-Nicora, Deliang Peng, Kanan Saikai and Milad Rashidifard  
     Editors: Mujeebur Rahman Khan and Marisol Quintanilla  
     (working book chapter)
+
+
+## 2022
+- **Impact of *Pratylenchus penetrans* for soybean grown in Wisconsin, USA.**  
+    Saikai, K. and A. E. MacGuidwin.  
+    Published online: [Plant Disease](https://doi.org/10.1094/PDIS-09-21-1888-RE)
     
 
 ## 2021
 - **Revisiting the modified Baermann extraction method: extraction efficiency of Radopholus similis using different extraction materials.**  
     [Saikai, K., S. Wanjala, C. Oduori, and D. Coyne.](../files/Saikai_et_al_2021_baermann.pdf): Nematology  
     Published to Nematology 23:1215-1218.
-
-
-- **Impact of *Pratylenchus penetrans* for soybean grown in Wisconsin, USA.**  
-    Saikai, K. and A. E. MacGuidwin.  
-    Published online: [Plant Disease](https://doi.org/10.1094/PDIS-09-21-1888-RE)
 
 
 - **Pratylenchus smoliki, a new Nematode Species (Pratylenchidae: Tylenchomorpha) from the Great Plains Region of North America.**  
