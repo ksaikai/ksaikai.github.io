@@ -19,6 +19,11 @@ Currently working projects include an assessment of commercially available bioag
     (working book chapter)
 
 
+- **Evaluating species-specific primer, PPEN, for detecting Pratylenchus penetrans in Wisconsin.**  
+    Saikai, K. and A. E. MacGuidwin.  
+    (Working paper)
+    
+
 ## 2022
 - **Impact of *Pratylenchus penetrans* for soybean grown in Wisconsin, USA.**  
     Saikai, K. and A. E. MacGuidwin.  
