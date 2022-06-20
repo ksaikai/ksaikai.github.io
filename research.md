@@ -6,8 +6,7 @@ permalink: /publication/
 Currently working projects include an assessment of commercially available bioagents as a management of *Meloidogyne* spp. on coffee and its effect on soil health as well as development of rapid screening test of banana varieties against *Radopholus similis*.
 
 ## Working paper
-- **Biological agents to manage *Meloidogyne hapla* on coffee in Kenya.**
-
+- **Biological agents to manage *Meloidogyne hapla* on coffee in Kenya.**  
     Saikai, K., C. Oduori, S. Wanjala, and D. Coyne.  
     (Working paper)
 
