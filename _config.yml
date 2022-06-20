@@ -2,4 +2,7 @@ remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 title: "Kanan Saikai's personal website"
 logo: "images/KananSaikai_cropped.png"
 search: true
+author:
+  name: Kanan Saikai
+  picture: "images/KananSaikai_cropped.png"
 
