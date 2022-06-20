@@ -1,5 +1,5 @@
 ---
-image: ""
+image: "images/GithubProfile.png"
 ---
 
 **Who is Kanan Saikai?**
