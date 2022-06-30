@@ -3,6 +3,13 @@ title: Poster & Presentation
 permalink: /material/
 --- 
 
+- **Data analysis seminar series hosted by NemAfrica Nematology Journal Club in 2022**  
+    May 20, 2022 @Nairobi, Kenya  
+    Title "Let's revisit experimental design!"  
+    [Click here for the slide](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/ExperimentalDesign.pdf)
+
+
+
 - **7th International Congress of Nematology**  
     May 1-7, 2022 @Antibes Juan-Les-Pins, France  
     Title "Biological agents to invigorate the health of established coffee trees by managing plant parasitic nematodes."  
@@ -32,7 +39,7 @@ permalink: /material/
 
 
 
-- **Data analysis seminar series hosted by NemAfrica Nematology Journal Club**  
+- **Data analysis seminar series hosted by NemAfrica Nematology Journal Club in 2021**  
     July 16, 2021 (Online)  
     TItle "Data Handling"  
     [Click here for the slide](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/DataHandling.pdf)
