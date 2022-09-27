@@ -13,7 +13,8 @@ I have a keen interest of plant disease risk from nematodes and thier impact on 
 ### Education 
 
 * The University of Wisconsin-Madison - Fall, 2014 to Fall, 2019 (Wisconsin, USA): Plant Pathology PhD
-* The Univestiy of Florida - Fall, 2012 to Spring, 2014 (Florida, USA): Nematology MS
+* The Univestiy of Florida - Fall, 2012 to Spring, 2014 (Florida, USA): Nematology MS  
+* Hosei University - 2008 to 2012: Plant Clinical Science BS
 
 ### Professional Experience
 
