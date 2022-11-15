@@ -18,7 +18,7 @@ I have a keen interest of plant disease risk from nematodes and thier impact on 
 
 ### Professional Experience 
 * Wageningen University & Research - Oct. 2022~ (Wageningen, The Netherlands) 
-  - position: a quantative nematologist 
+  - position: a quantitative nematologist 
 
 * International Institute of Tropical Agriculture - Sept. 2020 ~ Sept. 2022  (Nairobi, Kenya)
   - position: Guest/Visiting scholar (JSPS overseas research fellow)  
