@@ -3,7 +3,7 @@ title: Poster & Presentation
 permalink: /material/
 --- 
 
-- **Plant parasitic nematodes and food security in Sub-Saharan Africa**
+- **Plant parasitic nematodes and food security in Sub-Saharan Africa** 
     Invited seminar by Cornell University
     Aug 20, 2022 @online
     Title "Plant parasitic nematodes and food security in Sub-Saharan Africa"
