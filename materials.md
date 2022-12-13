@@ -5,8 +5,8 @@ permalink: /material/
 
 - **Plant parasitic nematodes and food security in Sub-Saharan Africa**     
     Invited seminar by Cornell University
-    Aug 20, 2022 @online
-    Title "Plant parasitic nematodes and food security in Sub-Saharan Africa"
+    Aug 20, 2022 @online    
+    Title "Plant parasitic nematodes and food security in Sub-Saharan Africa"   
     [Click here for the slide](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/ExperimentalCornell.pdf)  
     
     
