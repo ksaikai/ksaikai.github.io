@@ -50,9 +50,7 @@ I have a keen interest of plant disease risk from nematodes and thier impact on 
 * JSPS oversea research fellow - 2020-2022  
 * Schroth Faces of the Future Award: The American Phytopathological Society - 2021  
 * Rod Rodríguez-Kábana student poster competition 1st place: Organization of Nematologists of Tropical America annual meeting - 2019. 
-* Student paper competition 2nd place: Society of Nematologists annual meeting - 2019.  
-* Scholarship award from Japan Student Services Organization 2015-2018  
-* Scholarship award from Japan Student Services Organization 2012-2014  
+* Student paper competition 2nd place: Society of Nematologists annual meeting - 2019.   
 
 
 ### Teaching
