@@ -8,11 +8,6 @@ permalink: /publication/
 Currently working projects include an assessment of commercially available bioagents as a management of *Meloidogyne* spp. on coffee and its effect on soil health as well as development of rapid screening test of banana varieties against *Radopholus similis*.  
 
 
-- **Biological agents to manage *Meloidogyne hapla* on coffee in Kenya.**  
-    Saikai, K., C. Oduori, S. Wanjala, and D. Coyne.  
-    (Working paper)
-
-
 - **Nematode problems and their sustainable management in maize**  
     Coauthors for the chapter: Horacio Lopez-Nicora, Deliang Peng, Kanan Saikai and Milad Rashidifard  
     Editors: Mujeebur Rahman Khan and Marisol Quintanilla  
@@ -21,8 +16,14 @@ Currently working projects include an assessment of commercially available bioag
 
 - **Evaluating species-specific primer, PPEN, for detecting Pratylenchus penetrans in Wisconsin.**  
     Saikai, K. and A. E. MacGuidwin.  
-    (Working paper)
-    
+    (Working paper)     
+
+
+## 2023 
+- **Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production.**    
+    Saikai, K. K., Oduori, C., Situma, W., Njoroge, S., Murunde, R., Haukeland, S., and Coyne, D.   
+    Accepted with minor revisions: frontiers in Plant Science   
+
 
 ## 2022
 - **Impact of *Pratylenchus penetrans* for soybean grown in Wisconsin, USA.**  
