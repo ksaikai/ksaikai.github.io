@@ -8,13 +8,7 @@ permalink: /publication/
 Currently working projects include an assessment of commercially available bioagents as a management of *Meloidogyne* spp. on coffee and its effect on soil health as well as development of rapid screening test of banana varieties against *Radopholus similis*.  
 
 
-- **Nematode problems and their sustainable management in maize**  
-    Coauthors for the chapter: Horacio Lopez-Nicora, Deliang Peng, Kanan Saikai and Milad Rashidifard  
-    Editors: Mujeebur Rahman Khan and Marisol Quintanilla  
-    (working book chapter)
-
-
-- **Evaluating species-specific primer, PPEN, for detecting Pratylenchus penetrans in Wisconsin.**  
+- **Evaluating species-specific primer, PPEN, for detecting _Pratylenchus penetrans_ in Wisconsin.**  
     Saikai, K. and A. E. MacGuidwin.  
     (Working paper)     
 
@@ -23,6 +17,9 @@ Currently working projects include an assessment of commercially available bioag
 - **Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production.**    
     Saikai, K. K., Oduori, C., Situma, W., Njoroge, S., Murunde, R., Haukeland, S., and Coyne, D.   
     Accepted with minor revisions: frontiers in Plant Science   
+    
+- **Nematode Problems in Maize and Their Sustainable Management**   
+    Lopez-Nicora, H., Peng, D., Saikai, K., and Rashidifard, M. 2023. "Nematode Problems in Maize and Their Sustainable Management" in Nematode Diseases of     Crops and Their Sustainable Management, edited by R. M. Khan and M. Quintanilla, London, UK: Elsevier.  
 
 
 ## 2022
