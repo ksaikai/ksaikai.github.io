@@ -43,7 +43,7 @@ Currently working projects include an assessment of commercially available bioag
     [Saikai, K. and A. E. MacGuidwin.](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/SaikaiandMacGuidwin_2020_IntraspecificVariation.pdf): Journal of Nematology
 
 
-- **Difference in lesion formation by male and female *Pratylenchus penetrans**   
+- **Difference in lesion formation by male and female _Pratylenchus penetrans_**   
     [Saikai, K. and A. E. MacGuidwin.](https://github.com/ksaikai/ksaikai.github.io/blob/master/files/SaikaiandMacGuidwin_2020_lesionDifferenceByGender.pdf): Journal of Nematology
 
 
