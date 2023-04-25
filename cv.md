@@ -25,7 +25,8 @@ I have a keen interest of plant disease risk from nematodes and thier impact on 
 
 ### Publications  
 
-* Saikai, K. K., Oduori, C., Situma, W., Njoroge, S., Murunde, R., Haukeland, S., and Coyne, D. 2023. Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production. Accepted with minor revisions by frontiers in Plant Science.   
+* Saikai, K. K., Oduori, C., Situma, W., Njoroge, S., Murunde, R., Haukeland, S., and Coyne, D. 2023. Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production. Accepted with minor revisions by frontiers in Plant Science.  
+* Lopez-Nicora, H., Peng, D., Saikai, K., and Rashidifard, M. 2023. "Nematode Problems in Maize and Their Sustainable Management" in Nematode Diseases of Crops and Their Sustainable Management, edited by R. M. Khan and M. Quintanilla, London, UK: Elsevier.         
 * Saikai, K. and A. E. MacGuidwin. 2022. Impact of *Pratylenchus penetrans* for soybean grown in Wisconsin, USA. Plant Disease https://doi.org/10.1094/PDIS-09-21-1888-RE.  
 * Powers, T., Todd, T., Harris, T., Higgins, R., MacGuidwin, A., Mullin, P., Ozbayrak, M., Powers, K., and Saikai, K. 2021. *Pratylenchus smoliki*, a new Nematode Species (Pratylenchidae: Tylenchomorpha) from the Great Plains Region of North America. Journal of Nematology https://doi.org/10.21307/jofnem-2021-100.  
 * Saikai, K., Wanjala, S., Oduori, C., and Coyne, D. 2021. Revisiting the modified Baermann extraction method: extraction efficiency of *Radopholus similis* using different extraction material. Nematology 23:1215-1218.  
