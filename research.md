@@ -15,8 +15,7 @@ Currently working projects include an assessment of commercially available bioag
 
 ## 2023 
 - **Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production.**    
-    Saikai, K. K., Oduori, C., Situma, W., Njoroge, S., Murunde, R., Haukeland, S., and Coyne, D.   
-    Accepted with minor revisions: frontiers in Plant Science   
+    Saikai, K. K., Oduori, C., Situma, W., Njoroge, S., Murunde, R., Haukeland, S., and Coyne, D. 2023. Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production. Front. Plant Sci. 14:1196171. https://doi.org/10.3389/fpls.2023.1196171.      
     
 - **Nematode Problems in Maize and Their Sustainable Management**   
     Lopez-Nicora, H., Peng, D., Saikai, K., and Rashidifard, M. 2023. "Nematode Problems in Maize and Their Sustainable Management" in Nematode Diseases of     Crops and Their Sustainable Management, edited by R. M. Khan and M. Quintanilla, London, UK: Elsevier.  
