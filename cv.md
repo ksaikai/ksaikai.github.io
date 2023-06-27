@@ -4,10 +4,7 @@ permalink: /cv/
 --- 
 
 ### Research Interest
-My research focuses on the biology and impact of plant-parasitic nematodes, with projects that range in scale from tissue culture to the field.
-My interest is with all aspects of plant-parasitic nematode biology and the diseases they cause of agricultural crops. 
-This includes basic and applied research, education, and outreach via extension programs for growers. 
-I have a keen interest of plant disease risk from nematodes and thier impact on crop yields with emphasis on yield loss analyses.
+I am currently a researcher at Agrosystems Research of Plant Science Group at Wageningen University & Research (WUR). My primary area of interest lies in the comprehensive exploration of plant parasitic nematode biology, along with the investigation of soil health through nematode based indices. Furthermore, I am passionate about promoting nematology education and extension programs designed to benefit growers.    
 
 
 ### Education 
@@ -25,7 +22,7 @@ I have a keen interest of plant disease risk from nematodes and thier impact on 
 
 ### Publications  
 
-* Saikai, K. K., Oduori, C., Situma, W., Njoroge, S., Murunde, R., Haukeland, S., and Coyne, D. 2023. Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production. Accepted with minor revisions by frontiers in Plant Science.  
+* Saikai, K. K., Oduori, C., Situma, W., Njoroge, S., Murunde, R., Haukeland, S., and Coyne, D. 2023. Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production. Front. Plant Sci. 14:1196171. https://doi.org/10.3389/fpls.2023.1196171.   
 * Lopez-Nicora, H., Peng, D., Saikai, K., and Rashidifard, M. 2023. "Nematode Problems in Maize and Their Sustainable Management" in Nematode Diseases of Crops and Their Sustainable Management, edited by R. M. Khan and M. Quintanilla, London, UK: Elsevier.         
 * Saikai, K. and A. E. MacGuidwin. 2022. Impact of *Pratylenchus penetrans* for soybean grown in Wisconsin, USA. Plant Disease https://doi.org/10.1094/PDIS-09-21-1888-RE.  
 * Powers, T., Todd, T., Harris, T., Higgins, R., MacGuidwin, A., Mullin, P., Ozbayrak, M., Powers, K., and Saikai, K. 2021. *Pratylenchus smoliki*, a new Nematode Species (Pratylenchidae: Tylenchomorpha) from the Great Plains Region of North America. Journal of Nematology https://doi.org/10.21307/jofnem-2021-100.  
@@ -42,11 +39,11 @@ I have a keen interest of plant disease risk from nematodes and thier impact on 
 
 
 ### Skills  
-* Trained for nematode disease diagnostics  
-* Trained for fungal disease diagnostics  
-* SAS and R programming languages 
-* Trained for Scanning Electron Microscopes 
-* Trained for free-living nematode identifications and nematode community assay   
+* Nematode assays and advisory services  
+* Nematode disease diagnostics   
+* Nematode community assay   
+* R  
+* SAS
 
 
 ### Awards
