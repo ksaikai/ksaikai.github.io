@@ -2,10 +2,12 @@
 image: "images/github_ks_frontimage.jpg"
 ---
 
-**Who is Kanan Saikai?**
+**Hello, I am Kanan Saikai (Kutsuwa)**  
 
-I work at Wageningen University & Research as a quantitative nematologist.
-My primary area of interest lies in plant-parasitic nematodes, its biology and modeling damage functions on economic crops, along with the investigation of soil health through nematode community in soil. I am also interested in education and extension for growers. 
+I am a nematologist employed at Ceradis, where my focus is primarily on plant-parasitic nematodes.  
+My passion lies in developing eco-friendly solutions for nematode control, gaining a deep understanding of their biology, and comprehending the impact they have on economically important crops.  
+Additionally, I am dedicated to investigating soil health through the analysis of nematode communities in soil.  
+Education and outreach to support growers are also areas I'm enthusiastic about."
 
 My [CV](./cv/), [publications](./publication/), and [past presentation materials](./material/) are available from the side bar on the right corner of the main page.
  
