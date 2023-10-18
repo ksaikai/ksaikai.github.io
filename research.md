@@ -4,14 +4,13 @@ permalink: /publication/
 ---
 
 
-## Working paper  
-Currently working projects include an assessment of commercially available bioagents as a management of *Meloidogyne* spp. on coffee and its effect on soil health as well as development of rapid screening test of banana varieties against *Radopholus similis*.  
-
-
-- **Evaluating species-specific primer, PPEN, for detecting _Pratylenchus penetrans_ in Wisconsin.**  
+## Working paper      
+- **Evaluating species-specific primer, PPEN, for detecting _Pratylenchus penetrans_ in Wisconsin.**
     Saikai, K. and A. E. MacGuidwin.  
-    (Working paper)     
-
+    (Working paper)
+- **Counting nematodes made easy: Leveraging AI-powered automation for enhanced efficiency and precision**
+  Kanan K. Saikai, Trim Bresilla, Janne Kool, Norbert de Ruijter and Casper van Schaik
+  (Working paper)     
 
 ## 2023 
 - **Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production.**    
