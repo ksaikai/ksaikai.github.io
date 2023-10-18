@@ -5,10 +5,10 @@ permalink: /publication/
 
 
 ## Working paper      
-- **Evaluating species-specific primer, PPEN, for detecting _Pratylenchus penetrans_ in Wisconsin.**
+- **Evaluating species-specific primer, PPEN, for detecting _Pratylenchus penetrans_ in Wisconsin.**    
     Saikai, K. and A. E. MacGuidwin.  
     (Working paper)
-- **Counting nematodes made easy: Leveraging AI-powered automation for enhanced efficiency and precision**
+- **Counting nematodes made easy: Leveraging AI-powered automation for enhanced efficiency and precision.**    
   Kanan K. Saikai, Trim Bresilla, Janne Kool, Norbert de Ruijter and Casper van Schaik
   (Working paper)     
 
