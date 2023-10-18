@@ -7,14 +7,15 @@ permalink: /cv/
 I am currently a researcher at Agrosystems Research of Plant Science Group at Wageningen University & Research (WUR). My primary area of interest lies in the comprehensive exploration of plant parasitic nematode biology, along with the investigation of soil health through nematode based indices. Furthermore, I am passionate about promoting nematology education and extension programs designed to benefit growers.    
 
 
-### Education 
-
+### Education   
 * The University of Wisconsin-Madison - Fall, 2014 to Fall, 2019 (Wisconsin, USA): Plant Pathology PhD
 * The Univestiy of Florida - Fall, 2012 to Spring, 2014 (Florida, USA): Nematology MS  
 * Hosei University - 2008 to 2012: Plant Clinical Science BS
 
-### Professional Experience 
-* Wageningen University & Research - Oct. 2022~ (Wageningen, The Netherlands) 
+### Professional Experience   
+* Ceradis - Oct. 2023~ (Wagenigen, The Netherlands)
+  
+* Wageningen University & Research - Oct. 2022~Sept. 2023 (Wageningen, The Netherlands) 
   - position: a quantitative nematologist 
 
 * International Institute of Tropical Agriculture - Sept. 2020 ~ Sept. 2022  (Nairobi, Kenya)
@@ -22,7 +23,8 @@ I am currently a researcher at Agrosystems Research of Plant Science Group at Wa
 
 ### Publications  
 
-* Saikai, K. K., Oduori, C., Situma, W., Njoroge, S., Murunde, R., Haukeland, S., and Coyne, D. 2023. Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production. Front. Plant Sci. 14:1196171. https://doi.org/10.3389/fpls.2023.1196171.   
+* Saikai, K. K., Oduori, C., Situma, W., Njoroge, S., Murunde, R., Haukeland, S., and Coyne, D. 2023. Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production. Front. Plant Sci. 14:1196171. https://doi.org/10.3389/fpls.2023.1196171.
+* Beesa, N., Chinnasri, B., Sasnarukkit, A., Dethoup, T, Jindapunnapat, K., Kiriga, A. W., Saikai, K., haukeland, S., and Coyne. D.  2023. Potential of cavalcade, Centrosema pascuorum, leaves for controlling Meloidogyne javanica and quantification of active phytochemicals. Nematology 25:1019-1032 https://doi.org/10.1163/15685411-bja10273.  
 * Lopez-Nicora, H., Peng, D., Saikai, K., and Rashidifard, M. 2023. "Nematode Problems in Maize and Their Sustainable Management" in Nematode Diseases of Crops and Their Sustainable Management, edited by R. M. Khan and M. Quintanilla, London, UK: Elsevier.         
 * Saikai, K. and A. E. MacGuidwin. 2022. Impact of *Pratylenchus penetrans* for soybean grown in Wisconsin, USA. Plant Disease https://doi.org/10.1094/PDIS-09-21-1888-RE.  
 * Powers, T., Todd, T., Harris, T., Higgins, R., MacGuidwin, A., Mullin, P., Ozbayrak, M., Powers, K., and Saikai, K. 2021. *Pratylenchus smoliki*, a new Nematode Species (Pratylenchidae: Tylenchomorpha) from the Great Plains Region of North America. Journal of Nematology https://doi.org/10.21307/jofnem-2021-100.  
