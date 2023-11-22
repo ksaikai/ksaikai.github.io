@@ -4,7 +4,7 @@ permalink: /cv/
 --- 
 
 ### Research Interest
-I am currently a researcher at Agrosystems Research of Plant Science Group at Wageningen University & Research (WUR). My primary area of interest lies in the comprehensive exploration of plant parasitic nematode biology, along with the investigation of soil health through nematode based indices. Furthermore, I am passionate about promoting nematology education and extension programs designed to benefit growers.    
+I am currently a researcher at Ceradis, which is a spin-off start-up company of Wageningen University & Research. My primary area of interest lies in the comprehensive exploration of plant parasitic nematode biology, along with the investigation of soil health through nematode based indices. Furthermore, I am passionate about promoting nematology education and extension programs designed to benefit growers.    
 
 
 ### Education   
