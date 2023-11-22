@@ -7,12 +7,16 @@ permalink: /publication/
 ## Working paper      
 - **Evaluating species-specific primer, PPEN, for detecting _Pratylenchus penetrans_ in Wisconsin.**    
     Saikai, K. and A. E. MacGuidwin.  
-    (Working paper)
+    (Working paper)    
 - **Counting nematodes made easy: Leveraging AI-powered automation for enhanced efficiency and precision.**    
   Kanan K. Saikai, Trim Bresilla, Janne Kool, Norbert de Ruijter and Casper van Schaik
   (Working paper)     
 
-## 2023 
+## 2023     
+- **Prevalence of pest nematodes associated with soybean (*Glycine max*) in Wisconsin from 1998 to 2021**
+      MacGuidwin, A. E., Smith, D. L., Conley, S. P., and Saikai, K.    
+      Published online: [Journal of Nematology](https://doi.org/10.2478/jofnem-2023-0053)
+  
 - **Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production.**    
     Saikai, K. K., Oduori, C., Situma, W., Njoroge, S., Murunde, R., Haukeland, S., and Coyne, D. 2023. Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production. Front. Plant Sci. 14:1196171. https://doi.org/10.3389/fpls.2023.1196171.      
     
