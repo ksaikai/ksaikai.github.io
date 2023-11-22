@@ -22,8 +22,8 @@ I am currently a researcher at Agrosystems Research of Plant Science Group at Wa
   - position: Guest/Visiting scholar (JSPS overseas research fellow)  
 
 ### Publications  
-
-* Saikai, K. K., Oduori, C., Situma, W., Njoroge, S., Murunde, R., Haukeland, S., and Coyne, D. 2023. Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production. Front. Plant Sci. 14:1196171. https://doi.org/10.3389/fpls.2023.1196171.
+* MacGuidwin, A. E., Smith, D. L., Conley, S. P. and Saikai, K. 2023. Prevalence of pest nematodes associated with soybean (*Glycine max*) in Wisconsin from 1998 to 2021. Journal of Nematology http://doi.org/10.2478/jofnem-2023-0053.  
+* Saikai, K. K., Oduori, C., Situma, W., Njoroge, S., Murunde, R., Kimenju, J. W., Miano, D. W., Haukeland, S., and Coyne, D. 2023. Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production. Front. Plant Sci. 14:1196171. https://doi.org/10.3389/fpls.2023.1196171.
 * Beesa, N., Chinnasri, B., Sasnarukkit, A., Dethoup, T, Jindapunnapat, K., Kiriga, A. W., Saikai, K., haukeland, S., and Coyne. D.  2023. Potential of cavalcade, Centrosema pascuorum, leaves for controlling Meloidogyne javanica and quantification of active phytochemicals. Nematology 25:1019-1032 https://doi.org/10.1163/15685411-bja10273.  
 * Lopez-Nicora, H., Peng, D., Saikai, K., and Rashidifard, M. 2023. "Nematode Problems in Maize and Their Sustainable Management" in Nematode Diseases of Crops and Their Sustainable Management, edited by R. M. Khan and M. Quintanilla, London, UK: Elsevier.         
 * Saikai, K. and A. E. MacGuidwin. 2022. Impact of *Pratylenchus penetrans* for soybean grown in Wisconsin, USA. Plant Disease https://doi.org/10.1094/PDIS-09-21-1888-RE.  
