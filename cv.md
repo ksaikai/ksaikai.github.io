@@ -22,6 +22,7 @@ I am currently a researcher at Ceradis, which is a spin-off start-up company of 
   - position: Guest/Visiting scholar (JSPS overseas research fellow)  
 
 ### Publications  
+* Saikai, K. K., Bresilla, T., Kool, J., de Ruijter, N. C. A., and van Schaik, C. 2024. Counting nematodes made easy: leveraging AI-powered automation for enhanced efficiency and precision. Front. Plant Sci http://doi.org/10.3389/fpls.2024.1349209.  
 * MacGuidwin, A. E., Smith, D. L., Conley, S. P. and Saikai, K. 2023. Prevalence of pest nematodes associated with soybean (*Glycine max*) in Wisconsin from 1998 to 2021. Journal of Nematology http://doi.org/10.2478/jofnem-2023-0053.  
 * Saikai, K. K., Oduori, C., Situma, W., Njoroge, S., Murunde, R., Kimenju, J. W., Miano, D. W., Haukeland, S., and Coyne, D. 2023. Biocontrol-based strategies for improving soil health and managing plant-parasitic nematodes in coffee production. Front. Plant Sci. 14:1196171. https://doi.org/10.3389/fpls.2023.1196171.
 * Beesa, N., Chinnasri, B., Sasnarukkit, A., Dethoup, T, Jindapunnapat, K., Kiriga, A. W., Saikai, K., haukeland, S., and Coyne. D.  2023. Potential of cavalcade, Centrosema pascuorum, leaves for controlling Meloidogyne javanica and quantification of active phytochemicals. Nematology 25:1019-1032 https://doi.org/10.1163/15685411-bja10273.  
