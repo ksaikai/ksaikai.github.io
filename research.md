@@ -4,13 +4,10 @@ permalink: /publication/
 ---
 
 
-## Working paper      
-- **Evaluating species-specific primer, PPEN, for detecting _Pratylenchus penetrans_ in Wisconsin.**    
-    Saikai, K. and A. E. MacGuidwin.  
-    (Working paper)    
+## 2024    
 - **Counting nematodes made easy: Leveraging AI-powered automation for enhanced efficiency and precision.**    
-  Kanan K. Saikai, Trim Bresilla, Janne Kool, Norbert de Ruijter and Casper van Schaik
-  (Working paper)     
+      Kanan K. Saikai, Trim Bresilla, Janne Kool, Norbert de Ruijter and Casper van Schaik    
+      Published online: [Front. Plant Sci](http://doi.org/10.3389/fpls.2024.1349209)          
 
 ## 2023     
 - **Prevalence of pest nematodes associated with soybean (*Glycine max*) in Wisconsin from 1998 to 2021**
