@@ -2,12 +2,9 @@
 image: "images/github_ks_frontimage.jpg"
 ---
 
-**Hello, I am Kanan Saikai (Kutsuwa)**  
+**Welcome to Kanan Kutsuwa (Saikai)'s personal website**  
 
-I am a nematologist employed at Ceradis, where my focus is primarily on plant-parasitic nematodes.  
-My passion lies in developing eco-friendly solutions for nematode control, gaining a deep understanding of their biology, and comprehending the impact they have on economically important crops.  
-Additionally, I am dedicated to investigating soil health through the analysis of nematode communities in soil.  
-Education and outreach to support growers are also areas I'm enthusiastic about.
+I am currently a researcher at Ceradis, a spin-off start-up of Wageningen University & Research. My primary role as a nematologist is to develop sustainable, green solutions for managing nematode diseases in crops. In addition, I am also involved in fungicide and herbicide development. It keeps me learning a lot of new things along the way!  
 
 My [CV](./cv/), [publications](./publication/), and [past presentation materials](./material/) are available from the side bar on the right corner of the main page.
  
