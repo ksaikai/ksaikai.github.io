@@ -4,7 +4,7 @@ permalink: /cv/
 --- 
 
 ### Research Interest
-I am currently a researcher at Ceradis, which is a spin-off start-up company of Wageningen University & Research. My primary area of interest lies in the comprehensive exploration of plant parasitic nematode biology, along with the investigation of soil health through nematode based indices. Furthermore, I am passionate about promoting nematology education and extension programs designed to benefit growers.    
+I am currently a researcher at Ceradis, a spin-off start-up of Wageningen University & Research. My primary role as a nematologist is to develop sustainable, green solutions for managing nematode diseases in crops. In addition, I am also involved in fungicide and herbicide development. It keeps me learning a lot of new things along the way!    
 
 
 ### Education   
